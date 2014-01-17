@@ -1,0 +1,15 @@
+/* Your Website Styles */
+body{
+	font-family: 'Buenard', serif;
+}
+h1{
+	font-family: 'Felipa', cursive;
+}
+h3{
+	font-family: 'Felipa', cursive;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
